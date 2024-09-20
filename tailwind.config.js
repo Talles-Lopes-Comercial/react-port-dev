@@ -7,7 +7,9 @@ export default {
       handwriting: ["Caveat"],
       headline: ["Poppins"],
     },
-    extend: {},
+    extend: {
+    
+    },
   },
   plugins: [],
-}
+  }
