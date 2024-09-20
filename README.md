@@ -224,7 +224,7 @@ Dessa forma já temos todas as sessões/componentes da página Home criadas e es
 
 Chegou o momento de criamos cada sessão do nosso site, para isso vamos utilizar o TailwindCSS para nos ajudar com os estilos e estilizar cada uma para que possamos ter a seguinte aparência final.
 
-Você pode consultar cada componente para que entenda como foi feito, mas não se preocupe, pois explicamos cada detalhe no vídeo.
+Você pode consultar cada componente para que entenda como foi feito, mas não se preocupe, pois e explicado um pouco aqui.
 
 ![Site final](./docs/images/site-final.png)
 
