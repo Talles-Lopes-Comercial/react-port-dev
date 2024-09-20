@@ -1,6 +1,6 @@
 # React Portfolio
 
-Este é o um portfólio feito com React. Ele foi desenvolvido para o conteúdo da [Master Class #012](https://www.youtube.com/watch?v=_AcdTQM5xJM) da [Dev Samurai](https://devsamurai.com.br/).
+
 
 ## Por que um Dev precisa de um portfólio?
 
